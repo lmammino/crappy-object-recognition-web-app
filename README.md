@@ -21,7 +21,7 @@ This should start the app locally (most likely on [localhost:3000](http://localh
 
 In the spirit of Open Source, everyone is very welcome to contribute to this project.
 You can contribute just by submitting bugs or suggesting improvements by
-[opening an issue on GitHub](https://github.com/lmammino/iteration-protocols-workshop/issues) or by [submitting a PR](https://github.com/lmammino/iteration-protocols-workshop/pulls).
+[opening an issue on GitHub](https://github.com/lmammino/crappy-object-recognition-web-app/issues) or by [submitting a PR](https://github.com/lmammino/crappy-object-recognition-web-app/pulls).
 
 
 ## License
