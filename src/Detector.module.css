@@ -1,0 +1,20 @@
+.video {
+  border: 1px solid tomato;
+  width: 100%;
+}
+
+.prediction {
+  position: absolute;
+  border: 1px dotted yellow;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: yellow;
+}
+
+.prediction span {
+  border-radius: 10px;
+  display: inline-block;
+  padding: 2px;
+  background-color: rgba(0, 0, 0, 0.5);
+} 
